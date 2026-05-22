@@ -23,4 +23,6 @@ The dashboard was built using the following tools and technologies:
    Reduced absenteeism through proactive HR interventions.
    Enhanced transparency and accountability in employee presence tracking.
    Empowered leadership with data-driven HR insights.
-## 📸 Dashboard Preview:
+## 📸 Dashboard Preview
+   https://github.com/Kalyani-Balande/HR-Analytics---PowerBI/blob/main/Employee%20presence%20Insights.png
+   
